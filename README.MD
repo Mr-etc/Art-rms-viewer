@@ -54,32 +54,32 @@ _Нажми для просмотра_ 👆
 
 ---
 
-___Скриншоты___
-![passview](assets/pass.jpg)
+___Скриншоты___</br>
+![passview](assets/pass.jpg)</br>
 Окно ввода пароля
 </br>
 
-![Functons](assets/Functions.jpg)
+![Functons](assets/Functions.jpg)</br>
 Главное окно приложения
 </br>
 
-![funmenu](assets/funmenu.gif)
+![funmenu](assets/funmenu.gif)</br>
 Меню с развлекательными функциями
 </br>
 
-![remotedesktop](assets/remote-desktop.jpg)
+![remotedesktop](assets/remote-desktop.jpg)</br>
 Окно просмотра экрана
 </br>
 
-![cmd](assets/cmd.jpg)
+![cmd](assets/cmd.jpg)</br>
 Удаленная консоль cmd
 </br>
 
-![filemanager](assets/filemanager.jpg)
+![filemanager](assets/filemanager.jpg)</br>
 Файловый менеджер
 </br>
 
-![chat](assets/chat.jpg)
+![chat](assets/chat.jpg)</br>
 Чат
 </br>
 
